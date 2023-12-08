@@ -101,7 +101,7 @@ img {
     width: 564px;
     height: 564px;
     flex-shrink: 0;
-    repeat;
+    
     border-radius: 0px 0px 0px 191px;
     background: url(<path-to-image>), lightgray 50% / cover no-repeat;
     margin-top: -600px;
@@ -175,7 +175,7 @@ button {
     height: 72px;
     flex-shrink: 0;
     border-radius: 10px;
-    background: #red;
+    background:  red;
     box-shadow: 11px 21px 15px 6px rgba(0, 0, 0, 0.25);
 }
 
@@ -390,7 +390,6 @@ button {
     font-weight: 700px;
     font-size: 64px;
     line-height: normal;
-    letter: 27%;
     width: 535px;
     margin-top: -100px;
     margin-left: 437px;
@@ -419,7 +418,7 @@ button {
 
 .i {
     width: 653px;
-    heiight: 94px;
+    height: 94px;
     margin-top: 27px;
     margin-left: 66px;
     background: white;
@@ -434,7 +433,7 @@ button {
 
 .j {
     width: 653px;
-    heiight: 94px;
+    height: 94px;
     margin-top: 27px;
     margin-left: 66px;
     background: white;
