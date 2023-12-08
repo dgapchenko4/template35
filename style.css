@@ -1,0 +1,448 @@
+h1 {
+    color: #0E0578;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.h1 {
+    width: 447px;
+    color: #2000E7;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+ul li {
+    text-align: right;
+    padding: 10px;
+    font-family: Poppins, sans-serif;
+    font-size: 28px;
+    display: inline;
+    position: relative;
+    text-align: right;
+    margin-top: -10px;
+    margin-left: 300px;
+    top: -70px;
+    width: 600px;
+    height: 25px;
+    background: url(images/1_33.jpg)
+}
+
+.start1 {
+    margin-top: 318px;
+    margin-left: 78px;
+    color: #2000E7;
+    font-family: Poppins, sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.start2 {
+    margin-top: -25px;
+    color: #2000E7;
+    font-family: Poppins, sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700px;
+    line-height: 72px;
+    margin-left: 78px;
+}
+
+.hexlet {
+    margin-top: -45px;
+    color: #2000E7;
+    font-family: Poppins, sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700px;
+    line-height: 72px;
+    margin-left: 78px;
+}
+
+span {
+    color: yellow;
+}
+
+.h2 {
+    font-family: sans-serif;
+    margin-left: 350px;
+}
+
+p {
+    width: 616px;
+    height: 72px;
+    flex-shrink: 0;
+    color: #383838;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 78px;
+}
+
+section {
+    width: 564px;
+    height: 564px;
+    margin-left: 772px;
+    margin-bottom: 0px;
+    flex-shrink: 0;
+    flex-direction: row-reverse;
+}
+
+img {
+    width: 564px;
+    height: 564px;
+    flex-shrink: 0;
+    repeat;
+    border-radius: 0px 0px 0px 191px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    margin-top: -600px;
+}
+
+.text {
+    text-align: left;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    white-space: wrap;
+    float: right;
+    margin-right: 240em;
+    box-sizing: border-box;
+}
+
+button {
+    font-size: 40px;
+    margin-left: 100px;
+    display: inline;
+    line-height: 1.5;
+    background: blue;
+    border-radius: 5px;
+    width: 246px;
+    height: 72px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #2000E7;
+    box-shadow: 11px 21px 15px 6px rgba(0, 0, 0, 0.25);
+    color: white;
+
+}
+
+.button {
+    background: white;
+    width: 246px;
+    height: 72px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    box-shadow: 11px 21px 15px 6px rgba(0, 0, 0, 0.25);
+    color: blue;
+}
+
+.name {
+    margin-top: 0px;
+    margin-left: 78px;
+    color: #2000E7;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 16.8px
+}
+
+.page {
+    width: 415px;
+    height: 303px;
+    flex-shrink: 0;
+    color: #000;
+
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.bridge {
+    width: 246px;
+    height: 72px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #red;
+    box-shadow: 11px 21px 15px 6px rgba(0, 0, 0, 0.25);
+}
+
+.name1 {
+    width: 564px;
+    height: 564px;
+    margin-left: 772px;
+}
+
+.div {
+    width: 925px;
+    height: 925px;
+    flex-shrink: 0;
+    border-radius: 0px;
+}
+
+.content {
+    color: #3B1FEA;
+    font-family: Poppins, sans-serif;
+    margin-top: 0px;
+    margin-left: 436px;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 9.6px;
+}
+
+.paragraph {
+    color: #000;
+    font-family: Poppins, sans-serif;
+    margin-left: 350px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.image2 {
+    position: absolute;
+    display: inline;
+    width: 564px;
+    height: 564px;
+    margin-left: 772px;
+    margin-bottom: 0px;
+    flex-shrink: 0;
+    flex-direction: row-reverse;
+}
+
+.yy {
+    width: 246px;
+    height: 180px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    margin-left: -772px;
+    margin-top: 108px;
+}
+
+.r {
+    width: 246px;
+    height: 180px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    margin-left: -772px;
+    margin-top: 108px;
+}
+
+.image4 {
+    position: relative;
+    display: flex;
+    width: 564px;
+    height: 564px;
+    margin-left: 384px;
+    margin-top: -300px;
+    flex-shrink: 0;
+}
+
+.b {
+    width: 246px;
+    height: 180px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    margin-left: -772px;
+    margin-top: 108px;
+}
+
+.image5 {
+    position: relative;
+    display: flex;
+    width: 564px;
+    height: 564px;
+    margin-left: 384px;
+    margin-top: -150px;
+    flex-shrink: 0;
+}
+
+.c {
+    width: 246px;
+    height: 180px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    margin-left: -772px;
+    margin-top: 0px;
+}
+
+.image6 {
+    position: relative;
+    display: flex;
+    width: 564px;
+    height: 564px;
+    margin-left: 0px;
+    margin-top: -560px;
+    flex-shrink: 0;
+}
+
+.d {
+    width: 246px;
+    height: 180px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    margin-left: -772px;
+    margin-top: 0px;
+}
+
+.image7 {
+    position: relative;
+    display: flex;
+    width: 564px;
+    height: 564px;
+    margin-left: 0px;
+    margin-top: 0px;
+    flex-shrink: 0;
+}
+
+.e {
+    width: 246px;
+    height: 180px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    margin-left: 0px;
+    margin-top: -570px;
+}
+
+.image8 {
+    position: relative;
+    display: flex;
+    width: 564px;
+    height: 564px;
+    margin-left: 0px;
+    margin-top: 0px;
+    flex-shrink: 0;
+}
+
+.f {
+    width: 246px;
+    height: 180px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    margin-left: 0px;
+    margin-top: -250px;
+}
+
+.image9 {
+    position: relative;
+    display: flex;
+    width: 564px;
+    height: 564px;
+    margin-left: -390px;
+    margin-top: -560px;
+    flex-shrink: 0;
+}
+
+.g {
+    width: 246px;
+    height: 180px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    margin-left: 0px;
+    margin-top: -250px;
+}
+
+.image10 {
+    position: relative;
+    display: flex;
+    width: 564px;
+    height: 564px;
+    margin-left: -390px;
+    margin-top: -560px;
+    flex-shrink: 0;
+}
+
+.h {
+    width: 246px;
+    height: 180px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    margin-left: -380px;
+    margin-top: -250px;
+}
+
+.bridge2 {
+    font-family: Poppins, sans-serif;
+    font-weight: 700px;
+    font-size: 64px;
+    line-height: normal;
+    letter: 27%;
+    width: 535px;
+    margin-top: -100px;
+    margin-left: 437px;
+    color: #220BE8;
+    letter-spacing: 17.28px;
+    font-style: normal;
+}
+
+.p1 {
+    font-family: Poppins;
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 36px;
+    width: 591px;
+    height: 36px;
+    margin-top: 0px;
+    margin-left: 435px;
+    color: #000000;
+}
+
+.make {
+    margin-left: 0px;
+    position: absolute;
+    display: inline;
+}
+
+.i {
+    width: 653px;
+    heiight: 94px;
+    margin-top: 27px;
+    margin-left: 66px;
+    background: white;
+}
+
+.you {
+    margin-left: -435px;
+    margin-top: 15px;
+    font-size: 24px;
+    color: black;
+}
+
+.j {
+    width: 653px;
+    heiight: 94px;
+    margin-top: 27px;
+    margin-left: 66px;
+    background: white;
+}
+
+.password {
+    margin-left: -435px;
+    margin-top: 15px;
+    font-size: 24px;
+    color: black;
+}
